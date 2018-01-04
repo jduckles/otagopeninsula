@@ -1,4 +1,8 @@
 
+# 3D Printable model of the Otago Peninsula and Dunedin, NZ
+
+This repo contains the raw GeoTIFF and finsished printable STL for a 3D printable model of Dunedin and the Otago Peninsula in New Zealand.
+
 ## Raster DEM
 
 Raster DEM acquired from (LRIS)[https://lris.scinfo.org.nz]
