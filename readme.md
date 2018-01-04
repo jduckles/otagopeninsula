@@ -3,11 +3,19 @@
 
 This repo contains the raw GeoTIFF and finsished printable STL for a 3D printable model of Dunedin and the Otago Peninsula in New Zealand.
 
-## Raster DEM
+## Acquire Raster DEM
 
 Raster DEM acquired from [LRIS](https://lris.scinfo.org.nz)
 
 Product downloaded was: `lris-nzdem-south-island-25-metre-GTiff`
+
+![DEM](dem.jpg)
+
+## Clip to ROI in QGIS
+
+Using QGIS, I clipped down to the region of interest
+
+![DEM Clipped to Dunedin area with Otago Peninsula](clipped_dem.jpg)
 
 ## Convert to STL mesh
 
@@ -25,6 +33,8 @@ Using meshmixer I filled holes in the mesh and extruded along the STL's Y-axis t
 Final STL from Meshmixer is what is included here in this repo.
 
 ## Printed
+
+Using Simplify 3D Slicer I printed the model on my CR-10. I used 0.4mm layer hight for the bottom/base 3mm, then switched to 0.1mm layer height for the terrain layers.
 
 ![3D Printed copy of STL file](printed.jpg)
 
