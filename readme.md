@@ -9,7 +9,7 @@ Raster DEM acquired from [LRIS](https://lris.scinfo.org.nz)
 
 Product downloaded was: `lris-nzdem-south-island-25-metre-GTiff`
 
-![DEM](dem.jpg)
+![DEM](dem.png)
 
 ## Clip to ROI in QGIS
 
