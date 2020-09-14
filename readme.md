@@ -1,6 +1,8 @@
 
 # 3D Printable model of the Otago Peninsula and Dunedin, NZ
 
+**Update** Based on [this tweet](https://twitter.com/tylermorganwall/status/1305626369456517121) there is a much simpler way once you've acquired the DEM `.tif`.
+
 This repo contains the raw GeoTIFF and finsished printable STL for a 3D printable model (the zip file) of Dunedin and the Otago Peninsula in New Zealand.
 
 The process can be applied to any ROI and generally consists of:
