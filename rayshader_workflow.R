@@ -1,5 +1,5 @@
 library(rayshader)
-r <- raster::raster('otago_penninsula.tif') 
+r <- raster::raster('otago_peninsula.tif') 
 
 m <- raster_to_matrix(r) 
 
